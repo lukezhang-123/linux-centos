@@ -1,0 +1,10 @@
+
+## CentOS Stream 8 and CentOS Linux 7 结束支持
+
+https://blog.centos.org/2023/04/end-dates-are-coming-for-centos-stream-8-and-centos-linux-7/
+
+---
+
+## CentOS Stream 8 在 2024/5/31 结束支持，开始于 2019/9/24
+
+https://endoflife.date/centos-stream
